@@ -1,0 +1,14 @@
+runtime! debian.vim
+
+syntax on
+set number
+set tabstop=4
+set shiftwidth=0
+set autoindent
+set smartindent
+set foldmethod=indent
+set foldnestmax=10
+set hlsearch
+set incsearch
+hi Search ctermfg=brown guifg=brown
+hi Folded ctermfg=white guifg=white
