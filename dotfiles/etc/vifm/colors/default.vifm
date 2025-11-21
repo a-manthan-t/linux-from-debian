@@ -1,6 +1,0 @@
-hi Win ctermbg=none guibg=none
-hi CmdLine ctermbg=none guibg=none
-hi Border ctermbg=none guibg=none
-hi TopLine ctermbg=none guibg=none ctermfg=7 guifg=#c5c8c6
-hi TopLineSel ctermbg=none guibg=none ctermfg=7 guifg=#c5c8c6
-hi StatusLine ctermbg=none guibg=none ctermfg=7 guifg=#c5c8c6
